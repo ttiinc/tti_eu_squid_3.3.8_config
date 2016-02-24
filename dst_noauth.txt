@@ -1,0 +1,9 @@
+era.epcos.com
+euwip.ttiinc.com
+ctx00.wittig.intern
+ctx01.wittig.intern
+ctx02.wittig.intern
+ctx03.wittig.intern
+rz3.aeb.de
+osce105-p.activeupdate.trendmicro.com
+portal.actalis.it

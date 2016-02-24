@@ -1,0 +1,10 @@
+\.[Ee][Xx][Ee]$
+\.[Bb][Aa][Tt]$
+\.[Pp][Ii][Ff]$
+\.[Ww][Mm][Ff]$
+\.[Vv][Bb][Ss]$
+\.[Mm][Ss][Ii]$
+\.[Aa][Vv][Ii]$
+\.[Mm][Pp][Gg]$
+\.[Mm][Pp][Ee][Gg]$
+\.[Mm][Pp]3$
